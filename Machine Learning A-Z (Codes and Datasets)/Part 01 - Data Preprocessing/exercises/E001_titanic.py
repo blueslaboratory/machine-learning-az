@@ -1,7 +1,8 @@
 # 30/11/2023
 # Open the folder as an independent window in VSC
-# Importing the necessary libraries
 
+
+# Importing the necessary libraries
 import pandas as pd
 import numpy as np
 from sklearn.compose import ColumnTransformer
