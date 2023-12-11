@@ -1,0 +1,7 @@
+11/12/2023
+
+These templates work for any dataset regardless of the nº of features and 
+as long as they have the features in the 1st columns and then the dependent
+variable in the last column; and also assuming that any missing data or 
+categorical data was already taken care of thanks to the data preprocessing
+toolkit.
